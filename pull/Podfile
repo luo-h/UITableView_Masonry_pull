@@ -1,0 +1,6 @@
+target "pull" do
+
+pod 'Masonry'
+pod 'UITableView+FDTemplateLayoutCell'
+
+end
